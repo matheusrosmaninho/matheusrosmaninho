@@ -1,6 +1,33 @@
 # Matheus
 
-Hi, welcome to my profile. I'm devops enginner
+Hi 👋 welcome to my profile. I'm devops enginner
+
+<p align="center">
+  <a href="https://github.com/matheusrosmaninho" target="_blank">
+    <img src="https://img.shields.io/github/followers/matheusrosmaninho?style=social" alt="GitHub followers" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/jmatheusrosmanoo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-red?logo=instagram&style=for-the-badge" alt="Instagram URL" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheusrosmano/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn URL" />
+  </a>
+  <a href="mailto:matheusrosmano@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact_Me-white?logo=gmail&style=for-the-badge&logoColor=red" alt="Gmail URL" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/matheusrosmaninho" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=matheusrosmaninho&count_private=true&show_icons=true&hide=stars&theme=radical" alt="GitHub Stats" />
+  </a>
+</p>
 
 ## :hammer_and_wrench: Languages and Tools :
 
