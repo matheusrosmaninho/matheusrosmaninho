@@ -31,23 +31,22 @@ Hi 👋 welcome to my profile. I'm devops enginner
 
 ## :hammer_and_wrench: Languages and Tools :
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="go" **alt="go" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php" **alt="php" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="gitlab" **alt="gitlab" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" **alt="github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" **alt="Terraform" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original-wordmark.svg" title="ansible" **alt="ansible" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-green?logo=mongodb&style=for-the-badge" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&style=for-the-badge" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/PHP-8-777BB4?style=for-the-badge&logo=php" alt="PHP" />
+  <img src="https://img.shields.io/badge/C%23-purple?logo=c-sharp&style=for-the-badge" alt="C#" />
+  <img src="https://img.shields.io/badge/Python-yellow?logo=python&style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/Minio-purple?logo=minio&style=for-the-badge" alt="Minio" />
+  <img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&style=for-the-badge" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-green?logo=postgresql&style=for-the-badge" alt="Postgres" />
+  <img src="https://img.shields.io/badge/go-%3E%3D1.20-30dff3?style=for-the-badge&logo=go" alt="Go" />
+  <img src="https://img.shields.io/badge/node.js-f1f6ff?logo=node.js&logoColor=6bbf47&style=for-the-badge" alt="Nodejs" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="Typescript" />
+  <img src="https://img.shields.io/badge/-GitHub-1d1c1c?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
+  <img src="https://img.shields.io/badge/Github-Actions-4184F4?style=for-the-badge" alt="Github actions" />
+  <img src="https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white" alt="AWS" />
+</p>
 
 ## :fire: My Stats :
 
