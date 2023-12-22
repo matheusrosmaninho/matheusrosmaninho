@@ -46,6 +46,7 @@ Hi 👋 welcome to my profile. I'm devops enginner
   <img src="https://img.shields.io/badge/-GitHub-1d1c1c?style=for-the-badge&logo=github&logoColor=white" alt="Github" />
   <img src="https://img.shields.io/badge/Github-Actions-4184F4?style=for-the-badge" alt="Github actions" />
   <img src="https://img.shields.io/badge/AWS-232F32?style=for-the-badge&logo=AmazonAWS&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/logo-gitlab-blue?logo=gitlab&style=for-the-badge" alt="Gitlab" />
 </p>
 
 ## :fire: My Stats :
