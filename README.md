@@ -25,7 +25,7 @@ Hi 👋 welcome to my profile. I'm devops enginner
 
 <p align="center">
   <a href="https://github.com/matheusrosmaninho" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=matheusrosmaninho&count_private=true&show_icons=true&hide=stars&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=matheusrosmaninho&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
   </a>
 </p>
 
@@ -51,6 +51,6 @@ Hi 👋 welcome to my profile. I'm devops enginner
 
 ## :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=matheusrosmaninho&theme=dark&background=000000)](https://git.io/streak-stats)
+![matheusrosmaninho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheusrosmaninho&theme=midnight-purple&hide_border=false)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrosmaninho&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![matheusrosmaninho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrosmaninho&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
